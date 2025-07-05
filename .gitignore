@@ -1,0 +1,19 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Ortam değişkenleri
+.env
+
+# Veritabanı (geliştirme esnasında oluşan sqlite dosyası)
+data/docs.db
+
+# PDF veya diğer büyük dosyalar (isterseniz)
+Example.pdf
+
+# IDE ayarları (VSCode, PyCharm vs.)
+.vscode/
+*.iml
